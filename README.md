@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Poketimes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run this project, make sure you have >= nodejs version 11 and npm version 6 installed in your computer.
+Once you've cloned this project using the below code in CLI `git clone`, you then proceed to run the following code in the project root directory `npm install`
 
 ## Available Scripts
 
