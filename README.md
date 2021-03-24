@@ -1,7 +1,7 @@
 # Getting Started with Poketimes
 
 To run this project, make sure you have >= nodejs version 11 and npm version 6 installed in your computer.
-Once you've cloned this project using the below code in CLI `git clone`, you then proceed to run the following code in the project root directory `npm install`
+Once you've cloned this project using the below code in CLI `git clone https://github.com/munkialbright/poketimes.git`, you then proceed to run the following code in the project root directory `npm install`.
 
 ## Available Scripts
 
